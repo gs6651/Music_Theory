@@ -80,7 +80,7 @@ Organized sequences of notes played in an ascending or descending order. The dis
 
 | Chord | Root | Major 3rd | Perfect 5th |
 | - | - | - | - |
-| C Major | C | E | G |
+| C | C | E | G |
 | C# / Db | C# / Db | E# / F | G# / Ab |
 | D | D | F# | A |
 | Eb | Eb | G | Bb |
